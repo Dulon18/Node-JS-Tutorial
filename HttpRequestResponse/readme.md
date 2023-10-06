@@ -6,3 +6,5 @@
   4. Send headers, HTTP status codes, and body data via response objects.
   5. Pipe data from request objects and to response objects.
   6. Handle stream errors in both the request and response streams.
+
+![http](https://github.com/Dulon18/Node-JS-Tutorial/assets/80118217/5b2c9de0-70b8-4c63-96b1-5907e1dbac54)

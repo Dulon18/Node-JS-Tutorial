@@ -12,3 +12,9 @@ Step 1: Import Required Module
 
 Step 2: Create Server
 
+Example:  var server = http.createServer(function (req, res) {
+     res.end('Hello world..');
+});
+Server.listen(4040);
+
+Created http instance and call http.createServer() method to create a server instance and then add a port 4040 using the listen method associated with the server instance. Pass it a function with parameters request and response. Write the sample implementation to always return "Hello World".

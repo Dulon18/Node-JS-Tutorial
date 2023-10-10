@@ -1,4 +1,4 @@
-# Node-JS-Tutorial for bigginer
+# Node-JS-Tutorial for Beginner
 Node.js is an open-source server environment.  Node.js allows you to run JavaScript on the server.
 
 <p align='center'>

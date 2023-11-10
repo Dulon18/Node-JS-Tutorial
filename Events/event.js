@@ -8,3 +8,4 @@ var eventHandler = function () {
 //Assign the eventhandler to an event:
 eventEmitter.on('scream', eventHandler);
 eventEmitter.emit('scream');
+

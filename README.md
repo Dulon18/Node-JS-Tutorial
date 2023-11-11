@@ -13,7 +13,7 @@ What Can Node.js Do?
   Node.js can add, delete, modify data in your database
 
   
-  Features of Node.js:
+  # Features of Node.js:
 
 Asynchronous and Event Driven − All APIs of Node.js library are asynchronous, that is, non-blocking. It essentially means a Node.js based server never waits for an API to return data. The server moves to the next API after calling it and a notification mechanism of Events of Node.js helps the server to get a response from the previous API call.
 

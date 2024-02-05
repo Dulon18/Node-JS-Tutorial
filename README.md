@@ -22,7 +22,6 @@ Very Fast − Being built on Google Chrome's V8 JavaScript Engine, Node.js libra
 Single-Threaded but Highly Scalable − Node.js uses a single threaded model with event looping. Event mechanism helps the server to respond in a non-blocking way and makes the server highly scalable as opposed to traditional servers which create limited threads to handle requests. Node.js uses a single-threaded program and the same program can provide service to a much larger number of requests than traditional servers like Apache HTTP Server.
 
 No Buffering − Node.js applications never buffer any data. These applications simply output the data in chunks.
-
 Asynchronous and Event-Driven: The Node.js library’s APIs are all asynchronous (non-blocking) in nature. A server built with Node.JS never waits for data from an API. from an API. After accessing an API, the server moves on to the next one. In order to receive and track responses of previous API requests, it uses a notification mechanism called Events.
   
 

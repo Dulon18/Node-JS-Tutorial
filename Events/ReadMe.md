@@ -1,3 +1,6 @@
 Node.js has a built-in module, called "Events", where you can create-, fire-, and listen for- your own events.
 
 To include the built-in Events module use the require() method. In addition, all event properties and methods are an instance of an EventEmitter object. To be able to access these properties and methods, create an EventEmitter object:
+
+
+The Node.js event loop is a continuously running, semi-infinite loop. It runs for as long as there is a pending asynchronous operation. Starting a Node.js process using the node command executes your JavaScript code and initializes the event loop. If Node.js encounters an asynchronous operation such as timers, files, and network I/O while executing a script, it offloads the operation to the native system or the thread pool.

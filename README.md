@@ -25,7 +25,8 @@ Asynchronous Nature : By eliminating the need to wait for API responses, it enha
 Synchronization : Furthermore, Node.js fosters seamless code synchronization between client and server, reducing loading times for audio and video content.
 
 Ease of Use : Being open-source and JavaScript-based, Node.js offers a familiar environment for developers, facilitating easy project initiation.
-By breaking down the text into specific points and refining each point for clarity and conciseness, the modified version presents a more streamlined and organized explanation of the benefits of Node.js.
+
+By breaking down the text into specific points and refining each point for clarity and conciseness of the benefits of Node.js.
 
   
   # Features of Node.js:

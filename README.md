@@ -12,6 +12,16 @@ What Can Node.js Do?
   
   Node.js can add, delete, modify data in your database
 
+  Why Do We Use NodeJs?
+
+  There are many reasons for which we prefer using NodeJs for the server side of our application, some of them are discussed in the following:
+
+NodeJs is built on Google Chrome’s V8 engine, and for this reason its execution time is very fast and it runs very quickly.
+There are more than 50,000 bundles available in the Node Package Manager and for that reason developers can import any of the packages any time according to their needed functionality for which a lot of time is saved.
+As NodeJs do not need to wait for an API to return data , so for building real time and data intensive web applications, it is very useful. It is totally asynchronous in nature that means it is totally non-blocking.
+The loading time for an audio or video is reduced by NodeJs because there is better synchronization of the code between the client and server for having the same code base.
+As NodeJs is open-source and it is nothing but a JavaScript framework , so for the developers who are already used to JavaScript, for them starting developing their projects with NodeJs is very easy.
+
   
   # Features of Node.js:
 

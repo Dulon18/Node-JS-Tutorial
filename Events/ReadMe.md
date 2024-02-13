@@ -1,5 +1,10 @@
 Node.js has a built-in module, called "Events", where you can create-, fire-, and listen for- your own events.
 
+## Event concept
+According to the dictionary, an event is a reference to a scheduled fact or event that can change its circumstances.
+
+Once the concept is understood and taking it to the world of computers, thanks to programming we can handle each of the circumstances that a computer emits, such as processing a file, when we connect a peripheral, or even when a user clicks on the browser (everything can be captured).
+
 To include the built-in Events module use the require() method. In addition, all event properties and methods are an instance of an EventEmitter object. To be able to access these properties and methods, create an EventEmitter object:
 
 

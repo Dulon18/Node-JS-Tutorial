@@ -10,7 +10,7 @@ JavaScript on the server.
   
   Node.js can collect form data
   
-  Node.js can add, delete, modify data in your database
+  Node.js can add, delete, and modify data in your database
 
   ## Why Do We Use NodeJs?
   

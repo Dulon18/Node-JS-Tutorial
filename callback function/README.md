@@ -7,3 +7,6 @@ Syntax:
     function function_name(argument, function (callback_argument){
        // callback body 
     })
+
+
+You can also assign an arrow function as a callback argument. Arrow function in JavaScript is an anonymous function. It is also called as lambda function. The syntax of using arrow function as Node.js callback is as follows

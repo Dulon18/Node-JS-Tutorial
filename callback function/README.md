@@ -9,11 +9,12 @@ Syntax:
     })
 
 
+## How to write a callback as an arrow function
+It may be confusing to have multiple function keywords in a block of code. To eliminate the function keyword in the callback, you can use an arrow function. The arrow function was introduced in ES6 and helps you write cleaner code by removing the function keyword.
+
+
 You can also assign an arrow function as a callback argument. Arrow function in JavaScript is an anonymous function. It is also called as lambda function. The syntax of using arrow function as Node.js callback is as follows
 
         function function_name(argument, (callback_argument) => { 
            // callback body 
         })
-
-## How to write a callback as an arrow function
-It may be confusing to have multiple function keywords in a block of code. To eliminate the function keyword in the callback, you can use an arrow function. The arrow function was introduced in ES6 and helps you write cleaner code by removing the function keyword.

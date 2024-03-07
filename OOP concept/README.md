@@ -10,4 +10,6 @@ There are four main principles or concepts that form the foundation of OOP:
 
 Polymorphism: Polymorphism simplifies code by treating different objects as if they're the same. It provides a unified way to interact with objects, allowing easy substitution of one object with another, as long as they share the same interface. This flexibility makes the code more readable and adaptable, allowing for smooth integration of new objects without disrupting existing functionality.
 
+Prototypal inheritance is a type of inheritance that adds new properties and methods to an existing object. This inheritance makes use of prototype objects 
+
 Abstraction: Abstraction simplifies complex systems by creating abstract classes or interfaces. These define common properties and methods without giving implementation details. It helps in defining common characteristics and behaviors for objects, which can be implemented differently in various objects

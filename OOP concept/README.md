@@ -4,6 +4,8 @@ Object-Oriented Programming (OOP) is a coding approach centered on objects, whic
 There are four main principles or concepts that form the foundation of OOP:
 
  Inheritance: Inheritance enables objects to inherit properties and methods from parent objects, establishing a hierarchy with shared characteristics. It fosters code reuse and diminishes  redundancy by facilitating the inheritance of common properties and methods from higher-level objects.
+ 
+Inheritance is the ability to create classes based on other classes. With inheritance, we can define a parent class (with certain properties and methods), and then children classes that will inherit from the parent class all the properties and methods that it has.
 
  Encapsulation: This concept involves bundling data and behavior within objects, and hiding the internal details of objects from the outside world. Objects encapsulate their data and methods, 
  which can only be accessed through well-defined interfaces. Encapsulation helps to achieve data privacy, code organization, and separation of concerns.

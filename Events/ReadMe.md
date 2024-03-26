@@ -1,4 +1,4 @@
-Node.js has a built-in module, called "Events", where you can create-, fire-, and listen for- your own events.
+Node.js has a built-in module, called "Events", where you can create, fire, and listen for your events.
 
 ## Event concept
 According to the dictionary, an event is a reference to a scheduled fact or event that can change its circumstances.

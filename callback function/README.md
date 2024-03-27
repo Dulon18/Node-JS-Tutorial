@@ -20,20 +20,20 @@ You can also assign an arrow function as a callback argument. Arrow function in 
         })
 
         // Define a function that takes an argument and a callback function
-    function processInput(input, callback) {
-    console.log("Processing input:", input);
+        function processInput(input, callback) {
+        console.log("Processing input:", input);
+        
+        // Simulate some asynchronous operation
+        setTimeout(() => {
+            const processedData = input.toUpperCase();
+            callback(processedData); // Call the callback function with the processed data
+        }, 1000);
+        }
     
-    // Simulate some asynchronous operation
-    setTimeout(() => {
-        const processedData = input.toUpperCase();
-        callback(processedData); // Call the callback function with the processed data
-    }, 1000);
-    }
-
-    // Define a callback function to be passed to processInput
-    const displayResult = (result) => {
-    console.log("Processed result:", result);
-    };
-
-    // Call the function processInput with an argument and the callback function
-    processInput("hello", displayResult);
+        // Define a callback function to be passed to processInput
+        const displayResult = (result) => {
+        console.log("Processed result:", result);
+        };
+    
+        // Call the function processInput with an argument and the callback function
+        processInput("hello", displayResult);

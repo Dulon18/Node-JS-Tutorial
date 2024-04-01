@@ -43,5 +43,7 @@ You can also assign an arrow function as a callback argument. Arrow function in 
         processInput("hello", displayResult);
 
 
+
+
 Promise.all()
 The Promise. all() method accepts an iterable of promises as an input and returns a single Promise that fixes to an array of the input promises' results.

@@ -55,6 +55,8 @@ Asynchronous and Event-Driven: The Node.js library’s APIs are all asynchronous
 
 Microservices Architecture: Node.js is well-suited for building microservices-based architectures due to its lightweight nature and support for asynchronous programming. It allows developers to create modular, independent services that can be easily scaled and maintained.
 
+Support for Modern JavaScript: Node.js supports modern JavaScript features such as async/await, arrow functions, and Promises, allowing developers to write cleaner and more maintainable code.
+
 Node.js facilitates DevOps practices by supporting automation and tooling for building, testing, and deploying applications. With tools like npm scripts, Docker, and various CI/CD pipelines, developers can streamline the development process and ensure the reliability and consistency of deployments across different environments.
   
 

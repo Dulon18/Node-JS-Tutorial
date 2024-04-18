@@ -61,6 +61,8 @@ Support for Modern JavaScript: Node.js supports modern JavaScript features such 
 
 Node.js facilitates DevOps practices by supporting automation and tooling for building, testing, and deploying applications. With tools like npm scripts, Docker, and various CI/CD pipelines, developers can streamline the development process and ensure the reliability and consistency of deployments across different environments.
   
+These features make Node.js a popular choice for building a wide range of applications, from small-scale projects to large-scale enterprise applications.
+
 
 <p align='center'>
 <img width="450" alt="NodeJS" src="https://github.com/Dulon18/Node-JS-Tutorial/assets/80118217/5ea3a4e3-f4f6-4f05-9528-20220047e843">

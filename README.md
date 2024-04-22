@@ -53,6 +53,8 @@ Single-Threaded but Highly Scalable − Node.js uses a single-threaded model wit
 No Buffering − Node.js applications never buffer any data. These applications simply output the data in chunks.
 Asynchronous and Event-Driven: The Node.js library’s APIs are all asynchronous (non-blocking) in nature. A server built with Node.JS never waits for data from an API. from an API. After accessing an API, the server moves on to the next one. To receive and track responses to previous API requests, it uses a notification mechanism called Events.
 
+Node.js is well-suited for handling streaming data, making it ideal for applications dealing with large files or continuous data streams. Its non-blocking I/O model allows it to efficiently process data in chunks as it becomes available, without the need to load the entire dataset into memory.
+
 Microservices Architecture: Node.js is well-suited for building microservices-based architectures due to its lightweight nature and support for asynchronous programming. It allows developers to create modular, independent services that can be easily scaled and maintained.
 
 Cross-platform: Node.js is designed to run on various platforms such as Windows, macOS, and Linux. This makes it a versatile choice for developing applications that can run on different operating systems.
